@@ -1,0 +1,24 @@
+{
+  "name": "telegram-bot-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index_old.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TempleOfTemplar/telegram-bot-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TempleOfTemplar/telegram-bot-starter/issues"
+  },
+  "homepage": "https://github.com/TempleOfTemplar/telegram-bot-starter#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0",
+    "socks5-https-client": "^1.2.1",
+    "telegraf": "^3.35.0"
+  }
+}
